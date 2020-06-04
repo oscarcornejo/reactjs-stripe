@@ -1,4 +1,4 @@
-# Simple React APP with Stripe 
+# React APP con Stripe 
 *   Webpack 4
 *   React
 *   Materail UI React
